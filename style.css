@@ -31,7 +31,7 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #1b1b32;
+  background-color: #440078;
 }
 
 .seccion-clara {
@@ -120,13 +120,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #440078;
 }
 
 .experiencia i {
   font-size: 2.5rem;
-  color: #7ade30;
-  background-color: #0a0a23;
+  color: #EF56B8;
+  background-color: #69507D;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -270,7 +270,7 @@ h1 {
 
 .contacto .rectangulo {
   margin-top: -5rem;
-  background-color: rgb(13, 110, 253);
+  background-color: #9968BF;
   border-radius: 10px;
   box-shadow: 0px 1px 4px 1px white;
 }
@@ -353,7 +353,7 @@ footer {
 
 .iconos-redes-sociales a:hover {
   background-color: white;
-  border: 2px solid rgb(13, 110, 253);
+  border: 2px solid #9968BF;
 }
 
 .iconos-redes-sociales a:hover i {
