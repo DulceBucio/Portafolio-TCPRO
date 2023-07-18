@@ -1,48 +1,39 @@
-# Portafolio Adaptable (Responsive) con Bootstrap 5
+# Responsive Portfolio with Bootstrap 5
 
-Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños (este tipo de sitio web se conoce en inglés como "responsive"). 
+This project, created for the Tecnolochicas PRO bootcamp, is a website that is adaptable to devices of different sizes, commonly referred to as a "responsive" website.
 
-El propósito de esta página web es mostrar el portafolio de proyectos de un(a) desarrollador(a) y su experiencia. Incluye una descripción breve de su motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
+The purpose of this website is to showcase a developer's portfolio of projects and their experience. It includes a brief description of their motivation, experience, projects, published articles, and contact information.
 
-También incluye imágenes alternativas en la carpeta `imagenes` en caso de que se desee personalizar la imagen principal del desarrollador, además de animación a la escritura de la página web con JavaScript.
+It also includes alternative images in the imagenes folder in case customization of the developer's main image is desired, along with JavaScript-powered page typing animation.
 
-### Capturas de pantalla:
+### Screenshots:
 
-Primera parte de la página web:
+First part of the website:
 
 ![Primera parte de la página web](imagenes/screenshot1.png)
 
-Experiencia:
+Experience:
 
 ![Experiencia](imagenes/screenshot2.png)
 
-Proyectos:
+Projects:
 
 ![Proyectos](imagenes/screenshot3.png)
 
-Testimonios:
+Testimonials:
 
 ![Testimonios](imagenes/screenshot4.png)
 
-Contacto:
+Contact:
 
 ![Contacto](imagenes/screenshot5.png)
 
-## Tecnologías
+## Technologies
+This website was created using:
 
-Esta página web fue creada con:
-
-* HTML
-* CSS
-* JavaScript 
-* Bootstrap 5
-
-Además, se incluyeron **Google Fonts** para personalizar la fuente y **Bootstrap icons** para incorporar íconos como flechas y logos de redes sociales populares. 
-
-## Español
-
-El texto de la página web está escrito en español, al igual que las clases y atributos personalizados. Las clases relacionadas con Bootstrap se incluyeron en inglés.
-
-
-
+HTML
+CSS
+JavaScript
+Bootstrap 5
+Additionally, it includes Google Fonts for font customization and Bootstrap icons to incorporate icons such as arrows and popular social media logos.
 
